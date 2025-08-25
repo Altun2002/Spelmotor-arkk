@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\altun\\Documents\\Unreal Projects\\Spelmotor-arkk\\Game_Engine_Arch\\Source\\Game_Engine_Arch\\Game_Engine_Arch.Build.cs",
+		"C:\\Users\\altun\\Documents\\Unreal Projects\\Spelmotor-arkk\\Game_Engine_Arch\\Source\\Game_Engine_Arch.Target.cs",
+		"C:\\Users\\altun\\Documents\\Unreal Projects\\Spelmotor-arkk\\Game_Engine_Arch\\Source\\Game_Engine_ArchEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

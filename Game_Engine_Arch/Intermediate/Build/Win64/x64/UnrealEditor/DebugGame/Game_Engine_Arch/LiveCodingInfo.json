@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Game_Engine_Arch.gen.cpp.obj": [
+			"Game_Engine_Arch.init.gen.cpp.obj",
+			"PlayerCharacter.gen.cpp.obj"
+		]
+	}
+}

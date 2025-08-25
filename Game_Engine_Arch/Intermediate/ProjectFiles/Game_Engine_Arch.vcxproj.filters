@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Game_Engine_Arch.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Game_Engine_Arch.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Game_Engine_ArchEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Game_Engine_Arch">
+      <UniqueIdentifier>{E5520283-4E66-3FA6-A237-C87EE5373C66}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Game_Engine_Arch\Game_Engine_Arch.Build.cs">
+      <Filter>Source\Game_Engine_Arch</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Game_Engine_Arch\Game_Engine_Arch.cpp">
+      <Filter>Source\Game_Engine_Arch</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Game_Engine_Arch\Game_Engine_Arch.h">
+      <Filter>Source\Game_Engine_Arch</Filter>
+    </ClInclude>
+    <Filter Include="Source\Game_Engine_Arch\Private">
+      <UniqueIdentifier>{DF61C8CA-7057-385D-B6C3-F1EAB6DF2EB3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Game_Engine_Arch\Private\PlayerCharacter.cpp">
+      <Filter>Source\Game_Engine_Arch\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Game_Engine_Arch\Public">
+      <UniqueIdentifier>{7C0A6CB3-F0D4-3AEB-B1A8-FEF8EC192FCB}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Game_Engine_Arch\Public\PlayerCharacter.h">
+      <Filter>Source\Game_Engine_Arch\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

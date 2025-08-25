@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Game_Engine_Arch",
+			"Path": "..\\Source\\Game_Engine_Arch.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Game_Engine_ArchEditor",
+			"Path": "..\\Source\\Game_Engine_ArchEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

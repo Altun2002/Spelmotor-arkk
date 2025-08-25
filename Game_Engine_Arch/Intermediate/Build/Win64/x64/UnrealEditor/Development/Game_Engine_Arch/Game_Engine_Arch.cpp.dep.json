@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\altun\\documents\\unreal projects\\spelmotor-arkk\\game_engine_arch\\source\\game_engine_arch\\game_engine_arch.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\altun\\documents\\unreal projects\\spelmotor-arkk\\game_engine_arch\\intermediate\\build\\win64\\x64\\game_engine_archeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\altun\\documents\\unreal projects\\spelmotor-arkk\\game_engine_arch\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\game_engine_arch\\definitions.game_engine_arch.h",
+            "c:\\users\\altun\\documents\\unreal projects\\spelmotor-arkk\\game_engine_arch\\source\\game_engine_arch\\game_engine_arch.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
