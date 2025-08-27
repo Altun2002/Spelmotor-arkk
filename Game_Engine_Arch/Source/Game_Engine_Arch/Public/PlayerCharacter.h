@@ -43,7 +43,7 @@ public:
 	UPROPERTY(VisibleAnywhere, Category = "Camera")
 	USpringArmComponent* CameraBoom;
 
-	UPROPERTY(VisibleAnywhere, Category = "Camera")
+	UPROPERTY(VisibleAnywhere, Category = "Camera", BlueprintReadOnly, meta = (AllowPrivateAcces = "true"));
 	UCameraComponent* FollowCamera;
 	//callbacks for input
 	void Move(const FInputActionValue& Value);

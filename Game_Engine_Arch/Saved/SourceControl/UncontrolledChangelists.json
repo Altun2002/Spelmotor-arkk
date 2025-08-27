@@ -23,7 +23,16 @@
 				"C:/Users/altun/Documents/Unreal Projects/Spelmotor-arkk/Game_Engine_Arch/Content/BS_Player.uasset",
 				"C:/Users/altun/Documents/Unreal Projects/Spelmotor-arkk/Game_Engine_Arch/Content/BS_Player1.uasset",
 				"C:/Users/altun/Documents/Unreal Projects/Spelmotor-arkk/Game_Engine_Arch/Content/MM_Idle.uasset",
-				"C:/Users/altun/Documents/Unreal Projects/Spelmotor-arkk/Game_Engine_Arch/Content/MF_Unarmed_Walk_Fwd.uasset"
+				"C:/Users/altun/Documents/Unreal Projects/Spelmotor-arkk/Game_Engine_Arch/Content/MF_Unarmed_Walk_Fwd.uasset",
+				"C:/Users/altun/Documents/Unreal Projects/Spelmotor-arkk/Game_Engine_Arch/Content/BP_OverlapActor.uasset",
+				"C:/Users/altun/Documents/Unreal Projects/Spelmotor-arkk/Game_Engine_Arch/Content/BP_InteractableActor.uasset",
+				"C:/Users/altun/Documents/Unreal Projects/Spelmotor-arkk/Game_Engine_Arch/Content/BPI_Interaction.uasset",
+				"C:/Users/altun/Documents/Unreal Projects/Spelmotor-arkk/Game_Engine_Arch/Content/ABP_Player1.uasset",
+				"C:/Users/altun/Documents/Unreal Projects/Spelmotor-arkk/Game_Engine_Arch/Content/BS_Player2.uasset",
+				"C:/Users/altun/Documents/Unreal Projects/Spelmotor-arkk/Game_Engine_Arch/Content/MF_Unarmed_Walk_Fwd1.uasset",
+				"C:/Users/altun/Documents/Unreal Projects/Spelmotor-arkk/Game_Engine_Arch/Content/MM_Idle1.uasset",
+				"C:/Users/altun/Documents/Unreal Projects/Spelmotor-arkk/Game_Engine_Arch/Content/MM_Jump.uasset",
+				"C:/Users/altun/Documents/Unreal Projects/Spelmotor-arkk/Game_Engine_Arch/Content/MM_Land.uasset"
 			]
 		}
 	]
